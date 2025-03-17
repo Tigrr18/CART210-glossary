@@ -1,0 +1,8 @@
+##Algorithm
+
+Algorithms are lists of instructions necessary to complete a specific task. [^ndalgorithm] In computer science, this is usually found in form of pseudocode, as it is used to approximate the ammount of time and space an algorithm will take to run on a computer. [^hanna25analysis] This is called the time complexity and space complexity, both usually given in terms of Big-O notation, which is an approximation of the realistic worst case scenario of the altogithm. [^goodrich14data] This is mostly useful when looking at different data structures and different tasks completed within them, as we can quickly determine which way is best, or try to find ways to optimise said algorithm. Of those structures, some of the most known ones are stacks, queues, arrays, linked lists, trees, and much more. [^mehtre19data]
+
+[^hanna25analysis]: Hanna, Aiman. 2025. “Analysis of Algorithm.” PowerPoint presentation, Concordia COMP 352, Montreal, January 2025
+[^ndalgorithm]: “Algorithm.” n.d. NNLM. https://www.nnlm.gov/guides/data-glossary/algorithm.
+[^goodrich14data]: Goodrich, Michael T., Roberto Tamassia, and Michael H. Goldwasser. 2014. Data Structures and Algorithms in Java 6th Edition International Student Version. Wiley Publishing eBooks. https://dl.acm.org/citation.cfm?id=2675459.
+[^mehtre19data]: MEHTRE, VISHAL V., UDBHAV SINGH, and IRE Journals. 2019. “Data Structures and Its Limitations.” Journal-article. IRE Journals. Vol. 3. https://www.irejournals.com/formatedpaper/1701797.pdf.
