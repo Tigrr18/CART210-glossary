@@ -3,6 +3,8 @@ CMYK colorspace stands for "Cyan, Magenta, Yellow and Black(K)" colorspace. This
 In terms of color mixing, the CYMK, due to it's substractive nature, will mix both wavelenghts and keep the lowest points of the clash of the two waves. In comparison, RGB, with its additive mixing, will keep the high points of the waves. [^lee08theevolution]
 The use of differnet color spaces will differ depending on how you intend to use the image. for example, a design that is meant to only ever be viewed on screens would preferably be realized in RGB as you will have access to more colors on the monitor. If you intend on printing the design, it is better to use the CMYK model, since not all RGB colors can be produced accurately with printers. It is usually the case for very vivid colors that are produced by a color mix, as achieving vivid colors through mixing is very complex. The type of file to use may also vary on the color space you are using, .pdf and .ai files being prefered for CMYK, and more traditional digital image files such as .jpg or .png are prefered for the RGB colorspace.[^ellis25rgb]
 
+![CMYK](images/CMYK-godfroy.png)
+Image generated with Leonardo.Ai with the prompt "Please create a slightly abstracted CYMK representation".
 
 [^westland23cmyk]: Westland, Stephen, and Vien Cheung. 2023. “CMYK Systems.” ResearchGate. In Handbook of Visual Display Technology, 1–7.
 [^lee08theevolution]: Lee, Barry B. 2008. “The Evolution of Concepts of Color Vision.” PubMed, July. https://pubmed.ncbi.nlm.nih.gov/21593994.
