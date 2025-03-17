@@ -6,7 +6,7 @@ The idea of RGB colorspace was created because of a previous finding by Thomas Y
 
 Although RGB is universal, the colors are display dependent, meaning that the colors for a same hexadecimal may appear differently on different screens. [^ibraheem12understanding] This is mostly due to variations in the manufacturing of the different layers of the screen, as well as the display technology used (LED vs OLED). [^benq22why]
 
-The theory of RGB is very useful in new media, as the use of screens and lights are very common. Utilising different colors and color mixes in new media will necessitate a basic knowledge in RGB colorspace, as well as some knowledge of CMYK (Cyan, Magenta, Yellow, Black), and other models such as HSI (Hue, Saturation, Intensity), used for digital illustration, or RYB (Red, Yellow, Blue), used for painting. RBG and HSI have also been used together in Deep learning to optimize image denoising (using two colorspaces to add more data and therefore more definition to the denoising)[^Deng24rgb]
+The theory of RGB is very useful in new media, as the use of screens and lights are very common. Utilising different colors and color mixes in new media will necessitate a basic knowledge in RGB colorspace, as well as some knowledge of [CMYK](../main/glossary.md#cmyk) (Cyan, Magenta, Yellow, Black), and other models such as HSI (Hue, Saturation, Intensity), used for digital illustration, or RYB (Red, Yellow, Blue), used for painting. RBG and HSI have also been used together in Deep learning to optimize image denoising (using two colorspaces to add more data and therefore more definition to the denoising)[^Deng24rgb]
 
 ![RGB](images/RGB-godfroy.png)
 Colorwheel image taken from a screenshot of the procreate colorwheel tool.
